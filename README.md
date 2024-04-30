@@ -1,5 +1,17 @@
 # Wjsdbf1226wjsdbf.github.io
 # (공지용)Github 연계 1인 1 지능형 실험실 구축
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>hello world</title>
+</head>
+<body>
+  <p>Hello World!</p>
+</body>
+</html>
 
 - 참고 실험실
     - 지능형 과학실 ON
